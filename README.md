@@ -1,1 +1,2 @@
-# weathery application template  ##responsive
+# weathery application template  
+## responsive
